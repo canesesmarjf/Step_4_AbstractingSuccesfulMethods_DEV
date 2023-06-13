@@ -1,0 +1,32 @@
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Various
+.DS_Store
+bin/
+obj/
+*.txt
+output_files/
+arma_libs/
+*.asv
+
+# Specific folders:
+Step_2_output/
+Step_3_output/
